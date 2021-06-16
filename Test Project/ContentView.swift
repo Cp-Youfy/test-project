@@ -5,6 +5,10 @@ struct ContentView: View {
         VStack {
             Text("Hello, world!")
             Text("Goodbye, world!")
+            Text("I'm a little app for your big needs!")
+            Button("Learn more") {
+            
+            }
         }
             .padding()
     }
